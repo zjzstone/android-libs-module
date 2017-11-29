@@ -1,0 +1,3 @@
+include 'ga-module'
+
+project(':ga-module').projectDir = new File('../../ga-module')
